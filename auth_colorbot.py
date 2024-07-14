@@ -50,9 +50,9 @@ def getchecksum():
 # Verifica a chave KeyAuth
 def check_key(chave):
     keyauthapp = api(
-    name = "BatmanSpoofer", # Application Name
-    ownerid = "xUAJqxfOK8", # Owner ID
-    secret = "06181572c98a641c13f77f47f7eebbbeeb48d13e976268a76d2c9cf1517e93c9", # Application Secret
+    name = "change", # Application Name
+    ownerid = "change", # Owner ID
+    secret = "change", # Application Secret
     version = "1.0", # Application Version
     hash_to_check = getchecksum()
     )
